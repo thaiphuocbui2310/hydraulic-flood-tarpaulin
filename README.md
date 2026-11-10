@@ -77,10 +77,10 @@ EPICS is an international engineering competition that challenges student teams 
 | Role | Member |
 |------|--------|
 | **Team Leader** | Bui Thai Phuoc |
-| Member | — |
-| Member | — |
-| Member | — |
-| Member | — |
+| Member | Dang Bao Chien |
+| Member | Tran Ngoc An Hoa |
+| Member | Nguyen Khanh Huyen |
+| Member | Nguyen Duc Duc |
 
 *Team of 5 members, Danang University of Science and Technology*
 
